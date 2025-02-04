@@ -16,7 +16,8 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class ebay_BookSearchPage {
+public class ebay_BookSearchPage
+	{
 	
 	@Test
 	  public void add_BooktoCart_Validate() 
